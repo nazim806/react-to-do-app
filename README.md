@@ -27,3 +27,5 @@ Step 6: Delete a to-do item.
 Step 7: Bring the app together.
 
 
+![Alt Text](https://github.com/nazim806/react-to-do-app/blob/master/images/to-do-list.PNG)
+
