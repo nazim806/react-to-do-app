@@ -2,13 +2,16 @@
 
 Step 1: Start a React App
 
-Intiate react app
+Intiate react app:
+
 $ npx create-react-app react-to-do-app
 
 once created, navigate to the project:
+
 $ cd react-to-do-app
 
-Then run the project
+Then run the project:
+
 $ npm run start
 
 Step 2:Style your App. Go to src/App.css file add classes such as app, todo-list and todo.
