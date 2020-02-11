@@ -14,11 +14,11 @@ Then run the project:
 
 $ npm run start
 
-Step 2:Style your App. Go to src/App.css file add classes such as app, todo-list and todo.
+Step 2: Style your App. Go to src/App.css file add classes such as app, todo-list and todo.
 
 Step 3: List of Items, Go into src/App.js file and add a state to our component
 
-Step 4:Create new items in the to-do list.
+Step 4: Create new items in the to-do list.
 
 Step 5: Update items in the to-do list.
 
