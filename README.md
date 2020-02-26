@@ -1,5 +1,7 @@
 # react-to-do-app
 
+To do app where you can create, add, update and delete new item.
+
 Step 1: Start a React App
 
 Intiate react app:
